@@ -1,0 +1,22 @@
+C:\Users\m.nagaraju\Source\Repos\DevOn.AskLisa.DevOps\DevOn.AskLisa.AWS.Lambda\bin\Release\netcoreapp2.0\linux-x64\DevOn.AskLisa.AWS.Lambda.deps.json
+C:\Users\m.nagaraju\Source\Repos\DevOn.AskLisa.DevOps\DevOn.AskLisa.AWS.Lambda\bin\Release\netcoreapp2.0\linux-x64\DevOn.AskLisa.AWS.Lambda.runtimeconfig.json
+C:\Users\m.nagaraju\Source\Repos\DevOn.AskLisa.DevOps\DevOn.AskLisa.AWS.Lambda\bin\Release\netcoreapp2.0\linux-x64\DevOn.AskLisa.AWS.Lambda.runtimeconfig.dev.json
+C:\Users\m.nagaraju\Source\Repos\DevOn.AskLisa.DevOps\DevOn.AskLisa.AWS.Lambda\bin\Release\netcoreapp2.0\linux-x64\DevOn.AskLisa.AWS.Lambda.dll
+C:\Users\m.nagaraju\Source\Repos\DevOn.AskLisa.DevOps\DevOn.AskLisa.AWS.Lambda\bin\Release\netcoreapp2.0\linux-x64\DevOn.AskLisa.AWS.Lambda.pdb
+C:\Users\m.nagaraju\Source\Repos\DevOn.AskLisa.DevOps\DevOn.AskLisa.AWS.Lambda\obj\Release\netcoreapp2.0\linux-x64\DevOn.AskLisa.AWS.Lambda.csprojAssemblyReference.cache
+C:\Users\m.nagaraju\Source\Repos\DevOn.AskLisa.DevOps\DevOn.AskLisa.AWS.Lambda\obj\Release\netcoreapp2.0\linux-x64\DevOn.AskLisa.AWS.Lambda.csproj.CoreCompileInputs.cache
+C:\Users\m.nagaraju\Source\Repos\DevOn.AskLisa.DevOps\DevOn.AskLisa.AWS.Lambda\obj\Release\netcoreapp2.0\linux-x64\DevOn.AskLisa.AWS.Lambda.AssemblyInfoInputs.cache
+C:\Users\m.nagaraju\Source\Repos\DevOn.AskLisa.DevOps\DevOn.AskLisa.AWS.Lambda\obj\Release\netcoreapp2.0\linux-x64\DevOn.AskLisa.AWS.Lambda.AssemblyInfo.cs
+C:\Users\m.nagaraju\Source\Repos\DevOn.AskLisa.DevOps\DevOn.AskLisa.AWS.Lambda\obj\Release\netcoreapp2.0\linux-x64\DevOn.AskLisa.AWS.Lambda.dll
+C:\Users\m.nagaraju\Source\Repos\DevOn.AskLisa.DevOps\DevOn.AskLisa.AWS.Lambda\obj\Release\netcoreapp2.0\linux-x64\DevOn.AskLisa.AWS.Lambda.pdb
+C:\Users\rishit G\Downloads\DevOn.AskLisa.DevOps\DevOn.AskLisa.DevOps\DevOn.AskLisa.AWS.Lambda\bin\Release\netcoreapp2.0\linux-x64\DevOn.AskLisa.AWS.Lambda.deps.json
+C:\Users\rishit G\Downloads\DevOn.AskLisa.DevOps\DevOn.AskLisa.DevOps\DevOn.AskLisa.AWS.Lambda\bin\Release\netcoreapp2.0\linux-x64\DevOn.AskLisa.AWS.Lambda.runtimeconfig.json
+C:\Users\rishit G\Downloads\DevOn.AskLisa.DevOps\DevOn.AskLisa.DevOps\DevOn.AskLisa.AWS.Lambda\bin\Release\netcoreapp2.0\linux-x64\DevOn.AskLisa.AWS.Lambda.runtimeconfig.dev.json
+C:\Users\rishit G\Downloads\DevOn.AskLisa.DevOps\DevOn.AskLisa.DevOps\DevOn.AskLisa.AWS.Lambda\bin\Release\netcoreapp2.0\linux-x64\DevOn.AskLisa.AWS.Lambda.dll
+C:\Users\rishit G\Downloads\DevOn.AskLisa.DevOps\DevOn.AskLisa.DevOps\DevOn.AskLisa.AWS.Lambda\bin\Release\netcoreapp2.0\linux-x64\DevOn.AskLisa.AWS.Lambda.pdb
+C:\Users\rishit G\Downloads\DevOn.AskLisa.DevOps\DevOn.AskLisa.DevOps\DevOn.AskLisa.AWS.Lambda\obj\Release\netcoreapp2.0\linux-x64\DevOn.AskLisa.AWS.Lambda.csprojAssemblyReference.cache
+C:\Users\rishit G\Downloads\DevOn.AskLisa.DevOps\DevOn.AskLisa.DevOps\DevOn.AskLisa.AWS.Lambda\obj\Release\netcoreapp2.0\linux-x64\DevOn.AskLisa.AWS.Lambda.csproj.CoreCompileInputs.cache
+C:\Users\rishit G\Downloads\DevOn.AskLisa.DevOps\DevOn.AskLisa.DevOps\DevOn.AskLisa.AWS.Lambda\obj\Release\netcoreapp2.0\linux-x64\DevOn.AskLisa.AWS.Lambda.AssemblyInfoInputs.cache
+C:\Users\rishit G\Downloads\DevOn.AskLisa.DevOps\DevOn.AskLisa.DevOps\DevOn.AskLisa.AWS.Lambda\obj\Release\netcoreapp2.0\linux-x64\DevOn.AskLisa.AWS.Lambda.AssemblyInfo.cs
+C:\Users\rishit G\Downloads\DevOn.AskLisa.DevOps\DevOn.AskLisa.DevOps\DevOn.AskLisa.AWS.Lambda\obj\Release\netcoreapp2.0\linux-x64\DevOn.AskLisa.AWS.Lambda.dll
+C:\Users\rishit G\Downloads\DevOn.AskLisa.DevOps\DevOn.AskLisa.DevOps\DevOn.AskLisa.AWS.Lambda\obj\Release\netcoreapp2.0\linux-x64\DevOn.AskLisa.AWS.Lambda.pdb
