@@ -36,13 +36,37 @@ namespace DevOn.AskLisa.AWS.Lambda
             return response;
         }
 
+        private string filterCategory(string category)
+        {
+            var responseSpeech = "";
+            switch (category)
+            {
+                case "certification":
+                responseSpeech = WebScraping.GetAllCertifications(CategoryOfQuestion.Certification)[0].Description;
+                break;
+                case "journey":
+                responseSpeech = WebScraping.GetDevOnJourney(CategoryOfQuestion.Journey)[0].Description;
+                break;              
+            }
+            return responseSpeech; 
+        }
+
         private SkillResponse HandleIntent(IntentRequest intentRequest, ILambdaLogger logger)
         {
             logger.LogLine($"IntentRequest {intentRequest.Intent.Name} made");
 
             // Do Web Scraping and get the Data from websites
             //var responseSpeech = "Hello world";
-            var responseSpeech = WebScraping.GetAllCertifications(CategoryOfQuestion.Certification)[0].Description;
+            //var responseSpeech = WebScraping.GetAllCertifications(CategoryOfQuestion.Certification)[0].Description;
+            //intentRequest.Intent.Name == 'Certification'
+            var responseSpeech = "";
+            if (intentRequest.Intent.Slots.TryGetValue("Category", out var category))
+            {
+                if (!string.IsNullOrEmpty(category.Value))
+                {
+                    responseSpeech = filterCategory(category.Value);
+                }
+            }
 
             if (intentRequest.Intent.Slots.TryGetValue("City", out var citySlot))
             {

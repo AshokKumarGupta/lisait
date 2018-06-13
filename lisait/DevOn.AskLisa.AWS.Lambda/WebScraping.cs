@@ -24,6 +24,37 @@ namespace DevOn.AskLisa.AWS.Lambda
             }
             return rawData;
         }
+
+        public static List<SampleData> GetDevOnJourney(CategoryOfQuestion category)
+        {
+            var browser = new ScrapingBrowser();
+            browser.AllowAutoRedirect = true;
+            browser.AllowMetaRedirect = true;
+            var websites = Data.websites.First(x => x.Key == category);
+
+            var rawData = ScrapAllWebsites(browser, websites.Value, category);
+            foreach (var data in rawData)
+            {
+                data.Description =  data.Description + " \n Here at DevOn we have guides full of tutorials, definitions, best practices, and advice.";
+            }
+            return rawData;
+        }
+
+        public static List<SampleData> GetDevOpsJourney(CategoryOfQuestion category)
+        {
+            var browser = new ScrapingBrowser();
+            browser.AllowAutoRedirect = true;
+            browser.AllowMetaRedirect = true;
+            var websites = Data.websites.First(x => x.Key == category);
+
+            var rawData = ScrapAllWebsites(browser, websites.Value, category);
+            foreach (var data in rawData)
+            {
+                data.Description = "I found this for you: \n " + data.Description;
+            }
+            return rawData;
+        }
+
         public static List<SampleData> ScrapAllWebsites(ScrapingBrowser browser, List<Websites> websites, CategoryOfQuestion category)
         {
             var results = new List<SampleData>();

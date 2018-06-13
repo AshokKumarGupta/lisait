@@ -19,7 +19,8 @@ namespace DevOn.AskLisa.AWS.Lambda
         Certification = 2,
         MoreDetail = 3,
         Explaination = 4,
-        Others = 5
+        Others = 5,
+        Journey = 6
     }
     public class Websites
     {
@@ -49,6 +50,7 @@ namespace DevOn.AskLisa.AWS.Lambda
                                                                     new Websites{ WebsitesUrl = string.Empty, XPath = "" },
                                                                     new Websites{ WebsitesUrl = string.Empty, XPath = "" }
                                                                     } },
+            { CategoryOfQuestion.Journey, new List<Websites>{ new Websites { WebsitesUrl = "https://devopscube.com/skillsets-to-work-in-devops-environment/", XPath = "//*[@id='post-1131']/div[2]/blockquote/p" } } }
         };
     }
 }

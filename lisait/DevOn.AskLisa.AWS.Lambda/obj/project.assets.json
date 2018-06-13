@@ -5615,31 +5615,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rishit G\\.nuget\\packages\\": {},
+    "C:\\Users\\a.gupta\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rishit G\\Downloads\\DevOn.AskLisa.DevOps\\DevOn.AskLisa.DevOps\\DevOn.AskLisa.AWS.Lambda\\DevOn.AskLisa.AWS.Lambda.csproj",
+      "projectUniqueName": "C:\\Users\\a.gupta\\Downloads\\DevOn.AskLisa.DevOps\\DevOn.AskLisa.DevOps\\DevOn.AskLisa.AWS.Lambda\\DevOn.AskLisa.AWS.Lambda.csproj",
       "projectName": "DevOn.AskLisa.AWS.Lambda",
-      "projectPath": "C:\\Users\\rishit G\\Downloads\\DevOn.AskLisa.DevOps\\DevOn.AskLisa.DevOps\\DevOn.AskLisa.AWS.Lambda\\DevOn.AskLisa.AWS.Lambda.csproj",
-      "packagesPath": "C:\\Users\\rishit G\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rishit G\\Downloads\\DevOn.AskLisa.DevOps\\DevOn.AskLisa.DevOps\\DevOn.AskLisa.AWS.Lambda\\obj\\",
+      "projectPath": "C:\\Users\\a.gupta\\Downloads\\DevOn.AskLisa.DevOps\\DevOn.AskLisa.DevOps\\DevOn.AskLisa.AWS.Lambda\\DevOn.AskLisa.AWS.Lambda.csproj",
+      "packagesPath": "C:\\Users\\a.gupta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\a.gupta\\Downloads\\DevOn.AskLisa.DevOps\\DevOn.AskLisa.DevOps\\DevOn.AskLisa.AWS.Lambda\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\rishit G\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\a.gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://raet.myget.org/F/youforceone/auth/5a6c298a-e884-4458-ab96-07ef730cc4ee/api/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
